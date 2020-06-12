@@ -1,21 +1,18 @@
 Attaching to jupyternotes_jupyter_1
 [36mjupyter_1  |[0m Executing the command: jupyter notebook
-[36mjupyter_1  |[0m [I 19:28:58.593 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
-[36mjupyter_1  |[0m [I 19:28:59.401 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
-[36mjupyter_1  |[0m [I 19:28:59.402 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
-[36mjupyter_1  |[0m [I 19:28:59.406 NotebookApp] Serving notebooks from local directory: /home/jovyan
-[36mjupyter_1  |[0m [I 19:28:59.406 NotebookApp] The Jupyter Notebook is running at:
-[36mjupyter_1  |[0m [I 19:28:59.406 NotebookApp] http://9ec337e639ba:8888/?token=d21d5df2a22ab7a1f705733a9e461bfa21a8107d85621971
-[36mjupyter_1  |[0m [I 19:28:59.406 NotebookApp]  or http://127.0.0.1:8888/?token=d21d5df2a22ab7a1f705733a9e461bfa21a8107d85621971
-[36mjupyter_1  |[0m [I 19:28:59.406 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[36mjupyter_1  |[0m [C 19:28:59.411 NotebookApp] 
+[36mjupyter_1  |[0m [I 19:29:46.320 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[36mjupyter_1  |[0m [I 19:29:47.129 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[36mjupyter_1  |[0m [I 19:29:47.129 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[36mjupyter_1  |[0m [I 19:29:47.133 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[36mjupyter_1  |[0m [I 19:29:47.133 NotebookApp] The Jupyter Notebook is running at:
+[36mjupyter_1  |[0m [I 19:29:47.133 NotebookApp] http://249c57c7c549:8888/?token=76e85e210a69b0fc6d1af0b330eed7d69d6dbdd409f2df7c
+[36mjupyter_1  |[0m [I 19:29:47.133 NotebookApp]  or http://127.0.0.1:8888/?token=76e85e210a69b0fc6d1af0b330eed7d69d6dbdd409f2df7c
+[36mjupyter_1  |[0m [I 19:29:47.133 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[36mjupyter_1  |[0m [C 19:29:47.139 NotebookApp] 
 [36mjupyter_1  |[0m     
 [36mjupyter_1  |[0m     To access the notebook, open this file in a browser:
 [36mjupyter_1  |[0m         file:///home/jovyan/.local/share/jupyter/runtime/nbserver-6-open.html
 [36mjupyter_1  |[0m     Or copy and paste one of these URLs:
-[36mjupyter_1  |[0m         http://9ec337e639ba:8888/?token=d21d5df2a22ab7a1f705733a9e461bfa21a8107d85621971
-[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=d21d5df2a22ab7a1f705733a9e461bfa21a8107d85621971
-[36mjupyter_1  |[0m [I 19:29:00.940 NotebookApp] 302 GET /?token=33cc5b8b6bd24571bcc28d4ac8d40ebb76bf2ed3e7e5b9df (192.168.208.1) 1.24ms
-[36mjupyter_1  |[0m [W 19:29:00.947 NotebookApp] Clearing invalid/expired login cookie username-127-0-0-1-8888
-[36mjupyter_1  |[0m [W 19:29:00.948 NotebookApp] Clearing invalid/expired login cookie username-127-0-0-1-8888
-[36mjupyter_1  |[0m [I 19:29:00.949 NotebookApp] 302 GET /tree?token=33cc5b8b6bd24571bcc28d4ac8d40ebb76bf2ed3e7e5b9df (192.168.208.1) 2.36ms
+[36mjupyter_1  |[0m         http://249c57c7c549:8888/?token=76e85e210a69b0fc6d1af0b330eed7d69d6dbdd409f2df7c
+[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=76e85e210a69b0fc6d1af0b330eed7d69d6dbdd409f2df7c
+[36mjupyter_1  |[0m [I 19:29:48.665 NotebookApp] 302 GET /?token=76e85e210a69b0fc6d1af0b330eed7d69d6dbdd409f2df7c (192.168.224.1) 0.96ms
