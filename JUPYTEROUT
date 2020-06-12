@@ -1,0 +1,21 @@
+Attaching to jupyternotes_jupyter_1
+[36mjupyter_1  |[0m Executing the command: jupyter notebook
+[36mjupyter_1  |[0m [I 17:02:24.751 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[36mjupyter_1  |[0m [I 17:02:25.554 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[36mjupyter_1  |[0m [I 17:02:25.554 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[36mjupyter_1  |[0m [I 17:02:25.558 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[36mjupyter_1  |[0m [I 17:02:25.558 NotebookApp] The Jupyter Notebook is running at:
+[36mjupyter_1  |[0m [I 17:02:25.558 NotebookApp] http://ca6d08f2a71a:8888/?token=f63ccfd2fd35bc097a72e73723eb9fc8ba8afcceba24d632
+[36mjupyter_1  |[0m [I 17:02:25.558 NotebookApp]  or http://127.0.0.1:8888/?token=f63ccfd2fd35bc097a72e73723eb9fc8ba8afcceba24d632
+[36mjupyter_1  |[0m [I 17:02:25.559 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[36mjupyter_1  |[0m [C 17:02:25.564 NotebookApp] 
+[36mjupyter_1  |[0m     
+[36mjupyter_1  |[0m     To access the notebook, open this file in a browser:
+[36mjupyter_1  |[0m         file:///home/jovyan/.local/share/jupyter/runtime/nbserver-7-open.html
+[36mjupyter_1  |[0m     Or copy and paste one of these URLs:
+[36mjupyter_1  |[0m         http://ca6d08f2a71a:8888/?token=f63ccfd2fd35bc097a72e73723eb9fc8ba8afcceba24d632
+[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=f63ccfd2fd35bc097a72e73723eb9fc8ba8afcceba24d632
+[36mjupyter_1  |[0m [C 17:05:00.499 NotebookApp] received signal 15, stopping
+[36mjupyter_1  |[0m [I 17:05:00.499 NotebookApp] Shutting down 0 kernels
+[36mjupyternotes_jupyter_1 exited with code 0
+[0m
