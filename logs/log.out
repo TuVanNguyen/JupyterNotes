@@ -1,32 +1,26 @@
 Attaching to jupyternotes_jupyter_1
 [36mjupyter_1  |[0m Executing the command: jupyter notebook
-[36mjupyter_1  |[0m [I 19:32:59.682 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
-[36mjupyter_1  |[0m [I 19:33:00.500 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
-[36mjupyter_1  |[0m [I 19:33:00.501 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
-[36mjupyter_1  |[0m [I 19:33:00.504 NotebookApp] Serving notebooks from local directory: /home/jovyan
-[36mjupyter_1  |[0m [I 19:33:00.504 NotebookApp] The Jupyter Notebook is running at:
-[36mjupyter_1  |[0m [I 19:33:00.504 NotebookApp] http://310391dedde6:8888/?token=0eecfcb3dacce8f1bebc23b925132452f22485b0b1b3f5c1
-[36mjupyter_1  |[0m [I 19:33:00.505 NotebookApp]  or http://127.0.0.1:8888/?token=0eecfcb3dacce8f1bebc23b925132452f22485b0b1b3f5c1
-[36mjupyter_1  |[0m [I 19:33:00.505 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[36mjupyter_1  |[0m [C 19:33:00.510 NotebookApp] 
+[36mjupyter_1  |[0m [I 20:32:06.723 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[36mjupyter_1  |[0m [I 20:32:06.723 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[36mjupyter_1  |[0m [I 20:32:06.726 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[36mjupyter_1  |[0m [I 20:32:06.726 NotebookApp] The Jupyter Notebook is running at:
+[36mjupyter_1  |[0m [I 20:32:06.726 NotebookApp] http://e4df19cc08ab:8888/?token=4bfa947c6a4dab3fb568f9ee4f5d6e33c0eead8f5f6a5f00
+[36mjupyter_1  |[0m [I 20:32:06.726 NotebookApp]  or http://127.0.0.1:8888/?token=4bfa947c6a4dab3fb568f9ee4f5d6e33c0eead8f5f6a5f00
+[36mjupyter_1  |[0m [I 20:32:06.726 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[36mjupyter_1  |[0m [C 20:32:06.729 NotebookApp] 
 [36mjupyter_1  |[0m     
 [36mjupyter_1  |[0m     To access the notebook, open this file in a browser:
 [36mjupyter_1  |[0m         file:///home/jovyan/.local/share/jupyter/runtime/nbserver-6-open.html
 [36mjupyter_1  |[0m     Or copy and paste one of these URLs:
-[36mjupyter_1  |[0m         http://310391dedde6:8888/?token=0eecfcb3dacce8f1bebc23b925132452f22485b0b1b3f5c1
-[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=0eecfcb3dacce8f1bebc23b925132452f22485b0b1b3f5c1
-[36mjupyter_1  |[0m [I 19:33:02.021 NotebookApp] 302 GET /?token=0eecfcb3dacce8f1bebc23b925132452f22485b0b1b3f5c1 (192.168.240.1) 1.10ms
-[36mjupyter_1  |[0m [I 19:55:53.891 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
-[36mjupyter_1  |[0m [W 19:55:53.892 NotebookApp] Notebook work/Financial Analyst Notes.ipynb is not trusted
-[36mjupyter_1  |[0m [I 19:55:54.015 NotebookApp] Kernel started: 2b21e188-a47b-452d-bd3a-1c36c301dcc8
-[36mjupyter_1  |[0m [W 19:55:54.026 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200612193259 (192.168.240.1) 8.77ms referer=http://127.0.0.1:8888/notebooks/work/Financial%20Analyst%20Notes.ipynb
-[36mjupyter_1  |[0m [I 19:57:54.015 NotebookApp] Saving file at /work/Financial Analyst Notes.ipynb
-[36mjupyter_1  |[0m [I 19:59:54.008 NotebookApp] Saving file at /work/Financial Analyst Notes.ipynb
-[36mjupyter_1  |[0m [I 20:09:43.172 NotebookApp] Starting buffering for 2b21e188-a47b-452d-bd3a-1c36c301dcc8:358b6482ee454c038a15827d184c42b0
-[36mjupyter_1  |[0m [I 20:15:44.831 NotebookApp] Creating new directory in /work
-[36mjupyter_1  |[0m [I 20:16:13.811 NotebookApp] Kernel shutdown: 2b21e188-a47b-452d-bd3a-1c36c301dcc8
-[36mjupyter_1  |[0m [I 20:16:45.062 NotebookApp] Uploading file to /work/FinancialAnalysis/GOOG.csv
-[36mjupyter_1  |[0m [I 20:16:48.963 NotebookApp] Kernel started: 715f047c-4b10-40ba-9c1c-713bf9dfc19c
-[36mjupyter_1  |[0m [W 20:16:48.968 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200612193259 (192.168.240.1) 2.05ms referer=http://127.0.0.1:8888/notebooks/work/FinancialAnalysis/Financial%20Analyst%20Notes.ipynb
-[36mjupyter_1  |[0m [I 20:18:48.973 NotebookApp] Saving file at /work/FinancialAnalysis/Financial Analyst Notes.ipynb
-[36mjupyter_1  |[0m [I 20:20:44.348 NotebookApp] Saving file at /work/FinancialAnalysis/Financial Analyst Notes.ipynb
+[36mjupyter_1  |[0m         http://e4df19cc08ab:8888/?token=4bfa947c6a4dab3fb568f9ee4f5d6e33c0eead8f5f6a5f00
+[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=4bfa947c6a4dab3fb568f9ee4f5d6e33c0eead8f5f6a5f00
+[36mjupyter_1  |[0m [I 20:32:09.181 NotebookApp] 302 GET /?token=4bfa947c6a4dab3fb568f9ee4f5d6e33c0eead8f5f6a5f00 (172.18.0.1) 0.84ms
+[36mjupyter_1  |[0m [I 20:32:22.378 NotebookApp] Kernel started: 6c422a00-c598-43df-b400-0eae28f086ba
+[36mjupyter_1  |[0m [I 20:34:22.373 NotebookApp] Saving file at /work/FinancialAnalysis/Financial Analyst Notes.ipynb
+[36mjupyter_1  |[0m [I 20:36:22.370 NotebookApp] Saving file at /work/FinancialAnalysis/Financial Analyst Notes.ipynb
+[36mjupyter_1  |[0m [I 20:37:15.232 NotebookApp] Creating new directory in /work/FinancialAnalysis
+[36mjupyter_1  |[0m [I 20:37:45.100 NotebookApp] Uploading file to /work/FinancialAnalysis/data/TSLA.csv
+[36mjupyter_1  |[0m [W 20:37:57.983 NotebookApp] delete /work/FinancialAnalysis/GOOG.csv
+[36mjupyter_1  |[0m [I 20:38:22.373 NotebookApp] Saving file at /work/FinancialAnalysis/Financial Analyst Notes.ipynb
+[36mjupyter_1  |[0m [I 20:40:22.372 NotebookApp] Saving file at /work/FinancialAnalysis/Financial Analyst Notes.ipynb
+[36mjupyter_1  |[0m [I 20:42:28.803 NotebookApp] Saving file at /work/FinancialAnalysis/Financial Analyst Notes.ipynb
