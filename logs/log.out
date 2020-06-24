@@ -1,45 +1,118 @@
 Attaching to jupyternotes_jupyter_1
 [36mjupyter_1  |[0m Executing the command: jupyter notebook
-[36mjupyter_1  |[0m [I 17:21:47.917 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
-[36mjupyter_1  |[0m [I 17:21:48.607 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
-[36mjupyter_1  |[0m [I 17:21:48.608 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
-[36mjupyter_1  |[0m [I 17:21:48.610 NotebookApp] Serving notebooks from local directory: /home/jovyan
-[36mjupyter_1  |[0m [I 17:21:48.610 NotebookApp] The Jupyter Notebook is running at:
-[36mjupyter_1  |[0m [I 17:21:48.610 NotebookApp] http://37f2d6392a23:8888/?token=06491473d5f23ffffca1dc175e784057c468838060e72951
-[36mjupyter_1  |[0m [I 17:21:48.610 NotebookApp]  or http://127.0.0.1:8888/?token=06491473d5f23ffffca1dc175e784057c468838060e72951
-[36mjupyter_1  |[0m [I 17:21:48.610 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[36mjupyter_1  |[0m [C 17:21:48.614 NotebookApp] 
+[36mjupyter_1  |[0m [I 17:58:38.627 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[36mjupyter_1  |[0m [I 17:58:39.647 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[36mjupyter_1  |[0m [I 17:58:39.647 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[36mjupyter_1  |[0m [I 17:58:39.651 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[36mjupyter_1  |[0m [I 17:58:39.651 NotebookApp] The Jupyter Notebook is running at:
+[36mjupyter_1  |[0m [I 17:58:39.651 NotebookApp] http://741d9296beb6:8888/?token=f2aa69f4064a2ab24968699b081f49cfc3119ad67559b91b
+[36mjupyter_1  |[0m [I 17:58:39.651 NotebookApp]  or http://127.0.0.1:8888/?token=f2aa69f4064a2ab24968699b081f49cfc3119ad67559b91b
+[36mjupyter_1  |[0m [I 17:58:39.651 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[36mjupyter_1  |[0m [C 17:58:39.657 NotebookApp] 
 [36mjupyter_1  |[0m     
 [36mjupyter_1  |[0m     To access the notebook, open this file in a browser:
 [36mjupyter_1  |[0m         file:///home/jovyan/.local/share/jupyter/runtime/nbserver-6-open.html
 [36mjupyter_1  |[0m     Or copy and paste one of these URLs:
-[36mjupyter_1  |[0m         http://37f2d6392a23:8888/?token=06491473d5f23ffffca1dc175e784057c468838060e72951
-[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=06491473d5f23ffffca1dc175e784057c468838060e72951
-[36mjupyter_1  |[0m [I 17:21:50.495 NotebookApp] 302 GET /?token=06491473d5f23ffffca1dc175e784057c468838060e72951 (172.18.0.1) 0.70ms
-[36mjupyter_1  |[0m [I 19:03:19.638 NotebookApp] Creating new directory in /work
-[36mjupyter_1  |[0m [I 19:03:48.081 NotebookApp] Creating new notebook in /work/Statistics&Probability
-[36mjupyter_1  |[0m [I 19:03:48.098 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
-[36mjupyter_1  |[0m [I 19:03:48.734 NotebookApp] Kernel started: 0aaf2ed7-3dd6-4ea3-80c7-968978384835
-[36mjupyter_1  |[0m [I 19:05:48.712 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:07:48.707 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:09:48.710 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:11:49.074 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:13:49.080 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:15:49.082 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:17:49.073 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:19:49.060 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:21:49.079 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:23:49.071 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:25:49.079 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:27:49.072 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:31:49.073 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:33:49.082 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:35:49.082 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:37:49.075 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:39:49.080 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:41:49.079 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:43:49.081 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 19:45:49.084 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 03:05:04.952 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 03:05:05.978 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [I 03:05:08.676 NotebookApp] Starting buffering for 0aaf2ed7-3dd6-4ea3-80c7-968978384835:1145be31a6ab4f9b8ed9e3bc2a8afdc0
+[36mjupyter_1  |[0m         http://741d9296beb6:8888/?token=f2aa69f4064a2ab24968699b081f49cfc3119ad67559b91b
+[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=f2aa69f4064a2ab24968699b081f49cfc3119ad67559b91b
+[36mjupyter_1  |[0m [I 17:58:40.772 NotebookApp] 302 GET /?token=f2aa69f4064a2ab24968699b081f49cfc3119ad67559b91b (172.19.0.1) 0.86ms
+[36mjupyter_1  |[0m [I 17:58:54.701 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[36mjupyter_1  |[0m [W 17:58:54.702 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 17:58:55.096 NotebookApp] Kernel started: a515e34d-abc5-405d-81a4-199ec9c4ebc4
+[36mjupyter_1  |[0m [I 18:00:55.054 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 18:00:55.055 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:00:20.476 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:00:20.477 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:02:20.476 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:02:20.477 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:04:20.473 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:04:20.474 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:06:20.882 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:06:20.882 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:08:20.890 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:08:20.891 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:14:20.891 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:14:20.892 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:16:20.891 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:16:20.891 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:18:20.893 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:18:20.893 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:20:20.893 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:20:20.894 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:22:20.904 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:22:20.905 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:24:20.894 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:24:20.894 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:26:20.887 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:26:20.887 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:34:20.903 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:34:20.904 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:36:20.901 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:36:20.902 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:38:20.892 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:38:20.892 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:40:20.897 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:40:20.898 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:42:16.160 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:42:16.160 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:42:20.897 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:42:20.898 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:44:20.889 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:44:20.889 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:44:27.690 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:44:27.690 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:44:28.518 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 20:44:28.519 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 21:02:00.884 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 21:02:00.885 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 21:02:02.845 NotebookApp] Starting buffering for a515e34d-abc5-405d-81a4-199ec9c4ebc4:285d8c17890d4a2983d3378c077baad4
+[36mjupyter_1  |[0m [I 21:03:12.385 NotebookApp] Creating new notebook in /work/FinancialAnalysis
+[36mjupyter_1  |[0m [I 21:03:12.949 NotebookApp] Kernel started: ccd7689f-ea9d-4bbd-be17-c003cbca020f
+[36mjupyter_1  |[0m [I 21:05:13.886 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:07:14.885 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [W 21:07:44.118 NotebookApp] Notebook work/FinancialAnalysis/Lesson1_Moving_Averages.ipynb is not trusted
+[36mjupyter_1  |[0m [I 21:07:44.658 NotebookApp] Kernel started: 5308995d-38f0-46ec-95b6-ebdfc43cda07
+[36mjupyter_1  |[0m [I 21:08:25.004 NotebookApp] Starting buffering for 5308995d-38f0-46ec-95b6-ebdfc43cda07:677f53be9830442e85f1a5579b6a526d
+[36mjupyter_1  |[0m [I 21:09:14.887 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:11:14.872 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [W 21:11:16.739 NotebookApp] Notebook work/FinancialAnalysis/Lesson1_Moving_Averages.ipynb is not trusted
+[36mjupyter_1  |[0m [I 21:13:14.884 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:15:14.883 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:17:14.874 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:19:14.874 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:23:14.902 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:25:14.889 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:27:14.888 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:29:14.889 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:31:14.889 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:31:20.123 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:33:14.897 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:33:21.477 NotebookApp] Starting buffering for ccd7689f-ea9d-4bbd-be17-c003cbca020f:cc40fc1d3dae4b178135e695c95ac8a2
+[36mjupyter_1  |[0m [I 21:33:21.891 NotebookApp] Kernel restarted: ccd7689f-ea9d-4bbd-be17-c003cbca020f
+[36mjupyter_1  |[0m [I 21:33:22.492 NotebookApp] Restoring connection for ccd7689f-ea9d-4bbd-be17-c003cbca020f:cc40fc1d3dae4b178135e695c95ac8a2
+[36mjupyter_1  |[0m [I 21:33:22.492 NotebookApp] Replaying 3 buffered messages
+[36mjupyter_1  |[0m [I 21:34:14.836 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:35:14.889 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:37:14.891 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:39:14.893 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:41:14.903 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:43:14.895 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:45:14.893 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:47:14.891 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:49:14.892 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:55:14.892 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:57:14.893 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 21:59:14.883 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 22:01:14.894 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 22:03:14.893 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 22:05:14.898 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 22:07:14.886 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 22:09:14.895 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 22:11:14.896 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 22:13:14.904 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 22:15:14.902 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 22:17:14.904 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 22:19:14.902 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 23:50:23.246 NotebookApp] Starting buffering for 5308995d-38f0-46ec-95b6-ebdfc43cda07:baff1a7b03f94ba7a79e3fa2ec4ee3dc
+[36mjupyter_1  |[0m [I 02:20:39.007 NotebookApp] Saving file at /work/FinancialAnalysis/Model_Stock_Return.ipynb
+[36mjupyter_1  |[0m [I 02:20:39.955 NotebookApp] Starting buffering for ccd7689f-ea9d-4bbd-be17-c003cbca020f:cc40fc1d3dae4b178135e695c95ac8a2
