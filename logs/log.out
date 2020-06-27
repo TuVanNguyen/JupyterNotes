@@ -1,32 +1,44 @@
 Attaching to jupyternotes_jupyter_1
 [36mjupyter_1  |[0m Executing the command: jupyter notebook
-[36mjupyter_1  |[0m [I 18:04:30.208 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
-[36mjupyter_1  |[0m [I 18:04:30.954 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
-[36mjupyter_1  |[0m [I 18:04:30.954 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
-[36mjupyter_1  |[0m [I 18:04:30.957 NotebookApp] Serving notebooks from local directory: /home/jovyan
-[36mjupyter_1  |[0m [I 18:04:30.957 NotebookApp] The Jupyter Notebook is running at:
-[36mjupyter_1  |[0m [I 18:04:30.957 NotebookApp] http://40f1b6b5ddd1:8888/?token=de9200c31786b599b4cab01cb0208b4c9a129b674ba096f9
-[36mjupyter_1  |[0m [I 18:04:30.957 NotebookApp]  or http://127.0.0.1:8888/?token=de9200c31786b599b4cab01cb0208b4c9a129b674ba096f9
-[36mjupyter_1  |[0m [I 18:04:30.957 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[36mjupyter_1  |[0m [C 18:04:30.960 NotebookApp] 
+[36mjupyter_1  |[0m [I 16:31:23.644 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[36mjupyter_1  |[0m [I 16:31:24.644 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[36mjupyter_1  |[0m [I 16:31:24.645 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[36mjupyter_1  |[0m [I 16:31:24.649 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[36mjupyter_1  |[0m [I 16:31:24.649 NotebookApp] The Jupyter Notebook is running at:
+[36mjupyter_1  |[0m [I 16:31:24.649 NotebookApp] http://480e699bb4d1:8888/?token=5d4d8f6bb89e715dd24b1aec594679464d767e526c2b4ad3
+[36mjupyter_1  |[0m [I 16:31:24.649 NotebookApp]  or http://127.0.0.1:8888/?token=5d4d8f6bb89e715dd24b1aec594679464d767e526c2b4ad3
+[36mjupyter_1  |[0m [I 16:31:24.649 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[36mjupyter_1  |[0m [C 16:31:24.654 NotebookApp] 
 [36mjupyter_1  |[0m     
 [36mjupyter_1  |[0m     To access the notebook, open this file in a browser:
 [36mjupyter_1  |[0m         file:///home/jovyan/.local/share/jupyter/runtime/nbserver-6-open.html
 [36mjupyter_1  |[0m     Or copy and paste one of these URLs:
-[36mjupyter_1  |[0m         http://40f1b6b5ddd1:8888/?token=de9200c31786b599b4cab01cb0208b4c9a129b674ba096f9
-[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=de9200c31786b599b4cab01cb0208b4c9a129b674ba096f9
-[36mjupyter_1  |[0m [I 18:04:32.915 NotebookApp] 302 GET /?token=de9200c31786b599b4cab01cb0208b4c9a129b674ba096f9 (172.18.0.1) 0.73ms
-[36mjupyter_1  |[0m [I 18:06:58.305 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
-[36mjupyter_1  |[0m [W 18:06:58.305 NotebookApp] Notebook work/Statistics&Probability/Population&Sampling.ipynb is not trusted
-[36mjupyter_1  |[0m [I 18:06:58.535 NotebookApp] Kernel started: 2b116ab6-36d4-4dac-9eb1-f48c7beebf4b
-[36mjupyter_1  |[0m [I 18:08:58.543 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
-[36mjupyter_1  |[0m [I 18:14:58.526 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
-[36mjupyter_1  |[0m [I 18:16:58.518 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
-[36mjupyter_1  |[0m [I 22:17:49.242 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
-[36mjupyter_1  |[0m [I 22:19:49.242 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
-[36mjupyter_1  |[0m [I 22:21:49.245 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
-[36mjupyter_1  |[0m [I 22:23:49.233 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
-[36mjupyter_1  |[0m [I 22:51:49.471 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
-[36mjupyter_1  |[0m [I 22:57:49.471 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
-[36mjupyter_1  |[0m [I 01:33:44.932 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
-[36mjupyter_1  |[0m [I 01:33:48.724 NotebookApp] Starting buffering for 2b116ab6-36d4-4dac-9eb1-f48c7beebf4b:60e494e97c5440d48bc5fed11f530d51
+[36mjupyter_1  |[0m         http://480e699bb4d1:8888/?token=5d4d8f6bb89e715dd24b1aec594679464d767e526c2b4ad3
+[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=5d4d8f6bb89e715dd24b1aec594679464d767e526c2b4ad3
+[36mjupyter_1  |[0m [I 16:31:25.704 NotebookApp] 302 GET /?token=5d4d8f6bb89e715dd24b1aec594679464d767e526c2b4ad3 (172.18.0.1) 1.03ms
+[36mjupyter_1  |[0m [I 18:08:30.382 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[36mjupyter_1  |[0m [W 18:08:30.383 NotebookApp] Notebook work/Statistics&Probability/Population&Sampling.ipynb is not trusted
+[36mjupyter_1  |[0m [I 18:08:30.583 NotebookApp] Kernel started: 49c56001-8109-440b-b870-c36f628c8b97
+[36mjupyter_1  |[0m [I 18:22:30.573 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 18:24:30.553 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 18:26:30.574 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 18:28:30.569 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 18:30:30.565 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 18:32:30.567 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 18:38:56.908 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 18:46:48.496 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 18:46:51.392 NotebookApp] Starting buffering for 49c56001-8109-440b-b870-c36f628c8b97:ce87488ff1d447e68e74b5bcdd4fa27b
+[36mjupyter_1  |[0m [W 18:47:10.069 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 18:47:10.300 NotebookApp] Kernel started: d52fac68-96e9-4301-ad5c-2282c3cdc6fc
+[36mjupyter_1  |[0m [I 18:57:37.799 NotebookApp] Saving file at /work/Statistics&Probability/Frequency&Distribution .ipynb
+[36mjupyter_1  |[0m [W 18:57:37.800 NotebookApp] Notebook work/Statistics&Probability/Frequency&Distribution .ipynb is not trusted
+[36mjupyter_1  |[0m [I 18:57:46.259 NotebookApp] Starting buffering for d52fac68-96e9-4301-ad5c-2282c3cdc6fc:4979ac00c1f24b1693bb92441b0301c7
+[36mjupyter_1  |[0m [I 18:59:43.085 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 19:03:36.234 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 19:09:43.064 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 19:19:43.082 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 19:39:43.071 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 19:47:43.091 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 23:24:19.513 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 23:26:19.507 NotebookApp] Saving file at /work/Statistics&Probability/Population&Sampling.ipynb
+[36mjupyter_1  |[0m [I 19:03:01.331 NotebookApp] Starting buffering for 49c56001-8109-440b-b870-c36f628c8b97:da13ffe3c26540fa96baf6cced356824
