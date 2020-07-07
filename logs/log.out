@@ -1,67 +1,73 @@
 Attaching to jupyternotes_jupyter_1
 [36mjupyter_1  |[0m Executing the command: jupyter notebook
-[36mjupyter_1  |[0m [I 16:47:26.578 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
-[36mjupyter_1  |[0m [I 16:47:27.118 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
-[36mjupyter_1  |[0m [I 16:47:27.118 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
-[36mjupyter_1  |[0m [I 16:47:27.121 NotebookApp] Serving notebooks from local directory: /home/jovyan
-[36mjupyter_1  |[0m [I 16:47:27.121 NotebookApp] The Jupyter Notebook is running at:
-[36mjupyter_1  |[0m [I 16:47:27.121 NotebookApp] http://b71e9f73ce72:8888/?token=972e888a3c18fb8a1299fedd41176cf6af715de451024ecf
-[36mjupyter_1  |[0m [I 16:47:27.121 NotebookApp]  or http://127.0.0.1:8888/?token=972e888a3c18fb8a1299fedd41176cf6af715de451024ecf
-[36mjupyter_1  |[0m [I 16:47:27.121 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[36mjupyter_1  |[0m [C 16:47:27.124 NotebookApp] 
+[36mjupyter_1  |[0m [I 20:49:17.067 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[36mjupyter_1  |[0m [I 20:49:17.768 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[36mjupyter_1  |[0m [I 20:49:17.769 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[36mjupyter_1  |[0m [I 20:49:17.771 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[36mjupyter_1  |[0m [I 20:49:17.771 NotebookApp] The Jupyter Notebook is running at:
+[36mjupyter_1  |[0m [I 20:49:17.771 NotebookApp] http://a2c8c80a720a:8888/?token=e8aca7a7e34e006d54bdf3385e6d54d5a5db4c8ec6157cb3
+[36mjupyter_1  |[0m [I 20:49:17.771 NotebookApp]  or http://127.0.0.1:8888/?token=e8aca7a7e34e006d54bdf3385e6d54d5a5db4c8ec6157cb3
+[36mjupyter_1  |[0m [I 20:49:17.771 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[36mjupyter_1  |[0m [C 20:49:17.775 NotebookApp] 
 [36mjupyter_1  |[0m     
 [36mjupyter_1  |[0m     To access the notebook, open this file in a browser:
 [36mjupyter_1  |[0m         file:///home/jovyan/.local/share/jupyter/runtime/nbserver-6-open.html
 [36mjupyter_1  |[0m     Or copy and paste one of these URLs:
-[36mjupyter_1  |[0m         http://b71e9f73ce72:8888/?token=972e888a3c18fb8a1299fedd41176cf6af715de451024ecf
-[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=972e888a3c18fb8a1299fedd41176cf6af715de451024ecf
-[36mjupyter_1  |[0m [I 16:47:29.472 NotebookApp] 302 GET /?token=972e888a3c18fb8a1299fedd41176cf6af715de451024ecf (172.22.0.1) 0.73ms
-[36mjupyter_1  |[0m [I 16:47:54.855 NotebookApp] Creating new directory in /work
-[36mjupyter_1  |[0m [I 16:49:10.850 NotebookApp] Uploading file to /work/Photos/Screenshot_2020-06-30 3 3 Confidence Interval - The Hong Kong University of Science and Technology Coursera.png
-[36mjupyter_1  |[0m [I 16:49:36.301 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
-[36mjupyter_1  |[0m [W 16:49:36.302 NotebookApp] Notebook work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb is not trusted
-[36mjupyter_1  |[0m [I 16:49:36.480 NotebookApp] Kernel started: d303de07-1744-4d45-8143-748bb8ea7df1
-[36mjupyter_1  |[0m [W 16:51:35.584 NotebookApp] 404 GET /work/Photos/Zquant.png (172.22.0.1) 17.35ms referer=http://127.0.0.1:8888/notebooks/work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 16:51:36.472 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [W 16:51:44.386 NotebookApp] 404 GET /notebooks/work/FinancialAnalysis/'/work/Photos/Zquant.png' (172.22.0.1): No such file or directory: work/FinancialAnalysis/'/work/Photos/Zquant.png'
-[36mjupyter_1  |[0m [W 16:51:44.388 NotebookApp] 404 GET /notebooks/work/FinancialAnalysis/'/work/Photos/Zquant.png' (172.22.0.1) 3.31ms referer=http://127.0.0.1:8888/notebooks/work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [W 16:51:50.554 NotebookApp] 404 GET /notebooks/work/FinancialAnalysis/'../Photos/Zquant.png' (172.22.0.1): No such file or directory: work/FinancialAnalysis/'../Photos/Zquant.png'
-[36mjupyter_1  |[0m [W 16:51:50.555 NotebookApp] 404 GET /notebooks/work/FinancialAnalysis/'../Photos/Zquant.png' (172.22.0.1) 1.11ms referer=http://127.0.0.1:8888/notebooks/work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [W 16:52:47.290 NotebookApp] 404 GET /notebooks/work/FinancialAnalysis/'img/Zquant.png' (172.22.0.1): No such file or directory: work/FinancialAnalysis/'img/Zquant.png'
-[36mjupyter_1  |[0m [W 16:52:47.291 NotebookApp] 404 GET /notebooks/work/FinancialAnalysis/'img/Zquant.png' (172.22.0.1) 1.58ms referer=http://127.0.0.1:8888/notebooks/work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [W 16:52:56.295 NotebookApp] 404 GET /notebooks/work/FinancialAnalysis/'img/Zquant.png' (172.22.0.1): No such file or directory: work/FinancialAnalysis/'img/Zquant.png'
-[36mjupyter_1  |[0m [W 16:52:56.296 NotebookApp] 404 GET /notebooks/work/FinancialAnalysis/'img/Zquant.png' (172.22.0.1) 2.25ms referer=http://127.0.0.1:8888/notebooks/work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [W 16:53:12.158 NotebookApp] Notebook work/FinancialAnalysis/Lesson1_Moving_Averages.ipynb is not trusted
-[36mjupyter_1  |[0m [I 16:53:12.679 NotebookApp] Kernel started: 66dc3bfa-a174-404d-a753-c27b136f16a8
-[36mjupyter_1  |[0m [I 16:53:17.219 NotebookApp] Starting buffering for 66dc3bfa-a174-404d-a753-c27b136f16a8:cc53db523f2b4c978dac55aa6bc3ac48
-[36mjupyter_1  |[0m [W 16:53:25.046 NotebookApp] 404 GET /notebooks/work/FinancialAnalysis/'./img/Zquant.png' (172.22.0.1): No such file or directory: work/FinancialAnalysis/'./img/Zquant.png'
-[36mjupyter_1  |[0m [W 16:53:25.048 NotebookApp] 404 GET /notebooks/work/FinancialAnalysis/'./img/Zquant.png' (172.22.0.1) 3.37ms referer=http://127.0.0.1:8888/notebooks/work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 16:53:36.477 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 16:54:26.808 NotebookApp] 302 GET /notebooks/work/FinancialAnalysis/img/Zquant.png (172.22.0.1) 1.15ms
-[36mjupyter_1  |[0m [I 16:55:36.471 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 16:57:36.475 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 16:59:36.482 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:01:36.484 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:03:36.480 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:05:36.481 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:07:36.471 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:09:36.480 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:13:36.485 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:15:36.483 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:29:36.529 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:31:36.489 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:35:36.477 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:37:36.487 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:39:36.493 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:41:36.489 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [W 17:42:15.756 NotebookApp] Notebook work/FinancialAnalysis/Lesson1_Moving_Averages.ipynb is not trusted
-[36mjupyter_1  |[0m [I 17:43:36.503 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:45:36.492 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:47:36.494 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:49:36.660 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 17:51:36.652 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 20:32:25.427 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 01:17:26.781 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 01:17:27.517 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [I 01:17:28.806 NotebookApp] Starting buffering for d303de07-1744-4d45-8143-748bb8ea7df1:02664fafa6404db781f40b719ec1177e
-[36mjupyter_1  |[0m [I 01:17:31.930 NotebookApp] Starting buffering for 66dc3bfa-a174-404d-a753-c27b136f16a8:b32c07072a0847b89dabae95822861e4
+[36mjupyter_1  |[0m         http://a2c8c80a720a:8888/?token=e8aca7a7e34e006d54bdf3385e6d54d5a5db4c8ec6157cb3
+[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=e8aca7a7e34e006d54bdf3385e6d54d5a5db4c8ec6157cb3
+[36mjupyter_1  |[0m [I 20:49:19.678 NotebookApp] 302 GET /?token=e8aca7a7e34e006d54bdf3385e6d54d5a5db4c8ec6157cb3 (172.19.0.1) 0.64ms
+[36mjupyter_1  |[0m [I 20:49:34.095 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[36mjupyter_1  |[0m [W 20:49:34.096 NotebookApp] Notebook work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:49:34.251 NotebookApp] 302 GET /notebooks/work/FinancialAnalysis/img/Zquant.png (172.19.0.1) 1.23ms
+[36mjupyter_1  |[0m [I 20:49:34.373 NotebookApp] Kernel started: 65c62bc0-f8e5-4781-8c51-21ac0302e118
+[36mjupyter_1  |[0m [I 20:51:34.335 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
+[36mjupyter_1  |[0m [W 20:51:34.336 NotebookApp] Notebook work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:53:34.351 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
+[36mjupyter_1  |[0m [W 20:53:34.351 NotebookApp] Notebook work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:57:34.346 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
+[36mjupyter_1  |[0m [W 20:57:34.347 NotebookApp] Notebook work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb is not trusted
+[36mjupyter_1  |[0m [I 21:05:34.346 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
+[36mjupyter_1  |[0m [W 21:05:34.346 NotebookApp] Notebook work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb is not trusted
+[36mjupyter_1  |[0m [I 21:07:34.344 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
+[36mjupyter_1  |[0m [W 21:07:34.345 NotebookApp] Notebook work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb is not trusted
+[36mjupyter_1  |[0m [I 21:09:34.352 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
+[36mjupyter_1  |[0m [I 21:11:34.356 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
+[36mjupyter_1  |[0m [I 21:12:22.351 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
+[36mjupyter_1  |[0m [I 21:12:24.690 NotebookApp] Starting buffering for 65c62bc0-f8e5-4781-8c51-21ac0302e118:f0ac0cb917994a6a90df648201f1274d
+[36mjupyter_1  |[0m [W 21:12:46.219 NotebookApp] Notebook work/FinancialAnalysis/Model_Stock_Return.ipynb is not trusted
+[36mjupyter_1  |[0m [I 21:12:46.492 NotebookApp] Kernel started: cac3fd2b-06f7-4967-b945-e618aeaabce6
+[36mjupyter_1  |[0m [I 21:13:53.013 NotebookApp] Starting buffering for cac3fd2b-06f7-4967-b945-e618aeaabce6:adff9287de1b422ab2196891c8b9a9d0
+[36mjupyter_1  |[0m [I 21:21:09.490 NotebookApp] Creating new notebook in /work/FinancialAnalysis
+[36mjupyter_1  |[0m [I 21:21:10.372 NotebookApp] Kernel started: b3ca76f1-7019-4704-9f37-572f1389fd66
+[36mjupyter_1  |[0m [I 21:23:10.379 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 21:25:10.385 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 21:27:10.381 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 21:37:10.385 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 21:39:10.385 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 21:45:10.386 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 21:47:10.384 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 21:49:10.383 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [W 21:51:05.118 NotebookApp] Notebook work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb is not trusted
+[36mjupyter_1  |[0m [I 21:51:05.256 NotebookApp] 302 GET /notebooks/work/FinancialAnalysis/img/Zquant.png (172.19.0.1) 0.75ms
+[36mjupyter_1  |[0m [I 21:51:10.377 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 21:51:47.150 NotebookApp] Uploading file to /work/FinancialAnalysis/img/z&t_distribution.png
+[36mjupyter_1  |[0m [I 21:52:18.274 NotebookApp] 302 GET /notebooks/work/FinancialAnalysis/img/z&t_distribution.png (172.19.0.1) 1.65ms
+[36mjupyter_1  |[0m [I 21:53:10.387 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 21:55:10.391 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 21:57:10.389 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 21:59:10.379 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 22:01:10.386 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [W 22:02:29.901 NotebookApp] 404 GET /notebooks/work/FinancialAnalysis/img/2-tail.png (172.19.0.1): No such file or directory: work/FinancialAnalysis/img/2-tail.png
+[36mjupyter_1  |[0m [W 22:02:29.908 NotebookApp] 404 GET /notebooks/work/FinancialAnalysis/img/2-tail.png (172.19.0.1) 7.61ms referer=http://127.0.0.1:8888/notebooks/work/FinancialAnalysis/Lesson_Hypothesis%20Testing.ipynb
+[36mjupyter_1  |[0m [I 22:02:41.281 NotebookApp] Uploading file to /work/FinancialAnalysis/img/2-tail.png
+[36mjupyter_1  |[0m [I 22:02:45.193 NotebookApp] 302 GET /notebooks/work/FinancialAnalysis/img/2-tail.png (172.19.0.1) 2.93ms
+[36mjupyter_1  |[0m [I 22:03:10.386 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 22:05:10.386 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 22:07:10.387 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 23:25:10.398 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 02:36:29.302 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 02:36:30.053 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Hypothesis Testing.ipynb
+[36mjupyter_1  |[0m [I 02:36:33.825 NotebookApp] Saving file at /work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb
+[36mjupyter_1  |[0m [W 02:36:33.825 NotebookApp] Notebook work/FinancialAnalysis/Lesson_Confidence_Interval.ipynb is not trusted
+[36mjupyter_1  |[0m [I 02:36:40.526 NotebookApp] Starting buffering for b3ca76f1-7019-4704-9f37-572f1389fd66:2a01de1eb7a94a1287ee179e1f37d5d7
+[36mjupyter_1  |[0m [I 02:36:40.530 NotebookApp] Starting buffering for 65c62bc0-f8e5-4781-8c51-21ac0302e118:118273cffaed419a9bc784cc69d4f112
