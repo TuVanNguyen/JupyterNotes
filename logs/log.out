@@ -1,95 +1,92 @@
 Attaching to jupyternotes_jupyter_1
 [36mjupyter_1  |[0m Executing the command: jupyter notebook
-[36mjupyter_1  |[0m [I 20:45:21.991 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
-[36mjupyter_1  |[0m [I 20:45:22.735 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
-[36mjupyter_1  |[0m [I 20:45:22.735 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
-[36mjupyter_1  |[0m [I 20:45:22.738 NotebookApp] Serving notebooks from local directory: /home/jovyan
-[36mjupyter_1  |[0m [I 20:45:22.738 NotebookApp] The Jupyter Notebook is running at:
-[36mjupyter_1  |[0m [I 20:45:22.738 NotebookApp] http://736cd90e13bd:8888/?token=c40bcf5565560d3d82b8f6d523dd15f0c075a3662ac3994c
-[36mjupyter_1  |[0m [I 20:45:22.738 NotebookApp]  or http://127.0.0.1:8888/?token=c40bcf5565560d3d82b8f6d523dd15f0c075a3662ac3994c
-[36mjupyter_1  |[0m [I 20:45:22.738 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[36mjupyter_1  |[0m [C 20:45:22.742 NotebookApp] 
+[36mjupyter_1  |[0m [I 15:29:08.359 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[36mjupyter_1  |[0m [I 15:29:09.039 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[36mjupyter_1  |[0m [I 15:29:09.039 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[36mjupyter_1  |[0m [I 15:29:09.041 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[36mjupyter_1  |[0m [I 15:29:09.041 NotebookApp] The Jupyter Notebook is running at:
+[36mjupyter_1  |[0m [I 15:29:09.042 NotebookApp] http://190405775ef7:8888/?token=9ef7b93e20fec8c6dcbf42acdd43123268225ab601013534
+[36mjupyter_1  |[0m [I 15:29:09.042 NotebookApp]  or http://127.0.0.1:8888/?token=9ef7b93e20fec8c6dcbf42acdd43123268225ab601013534
+[36mjupyter_1  |[0m [I 15:29:09.042 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[36mjupyter_1  |[0m [C 15:29:09.045 NotebookApp] 
 [36mjupyter_1  |[0m     
 [36mjupyter_1  |[0m     To access the notebook, open this file in a browser:
 [36mjupyter_1  |[0m         file:///home/jovyan/.local/share/jupyter/runtime/nbserver-6-open.html
 [36mjupyter_1  |[0m     Or copy and paste one of these URLs:
-[36mjupyter_1  |[0m         http://736cd90e13bd:8888/?token=c40bcf5565560d3d82b8f6d523dd15f0c075a3662ac3994c
-[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=c40bcf5565560d3d82b8f6d523dd15f0c075a3662ac3994c
-[36mjupyter_1  |[0m [I 20:45:24.768 NotebookApp] 302 GET /?token=c40bcf5565560d3d82b8f6d523dd15f0c075a3662ac3994c (172.19.0.1) 0.61ms
-[36mjupyter_1  |[0m [I 20:51:01.081 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
-[36mjupyter_1  |[0m [W 20:51:01.081 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb is not trusted
-[36mjupyter_1  |[0m [I 20:51:01.461 NotebookApp] Kernel started: 73d8ad2b-8b38-4f09-a1a5-2fdf70072045
-[36mjupyter_1  |[0m [I 20:51:12.205 NotebookApp] Starting buffering for 73d8ad2b-8b38-4f09-a1a5-2fdf70072045:b4a788596a034847adc8460f9079250d
-[36mjupyter_1  |[0m [W 20:51:15.308 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb is not trusted
-[36mjupyter_1  |[0m [I 20:51:21.982 NotebookApp] Starting buffering for 73d8ad2b-8b38-4f09-a1a5-2fdf70072045:8573901d6e49452587910335b3d855b5
-[36mjupyter_1  |[0m [W 20:51:58.757 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb is not trusted
-[36mjupyter_1  |[0m [I 20:53:59.152 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [W 20:53:59.152 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb is not trusted
-[36mjupyter_1  |[0m [I 20:55:59.163 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [W 20:55:59.164 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb is not trusted
-[36mjupyter_1  |[0m [I 20:57:59.150 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [W 20:57:59.151 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb is not trusted
-[36mjupyter_1  |[0m [I 20:59:59.454 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [W 20:59:59.454 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:00:17.220 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [W 21:00:17.220 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:00:20.046 NotebookApp] Starting buffering for 73d8ad2b-8b38-4f09-a1a5-2fdf70072045:c7ff89685d3444b6a6430ff8b5865c51
-[36mjupyter_1  |[0m [W 21:00:26.511 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Population&Sampling.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:00:26.842 NotebookApp] Kernel started: 88fe5c1e-e284-4b28-ad63-e3dcc5ae1cbe
-[36mjupyter_1  |[0m [I 21:02:26.850 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.Population&Sampling.ipynb
-[36mjupyter_1  |[0m [W 21:02:26.850 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Population&Sampling.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:04:26.930 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.Population&Sampling.ipynb
-[36mjupyter_1  |[0m [W 21:04:26.930 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Population&Sampling.ipynb is not trusted
-[36mjupyter_1  |[0m [W 21:04:44.553 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:06:26.908 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.Population&Sampling.ipynb
-[36mjupyter_1  |[0m [W 21:06:26.910 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Population&Sampling.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:08:02.514 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.Population&Sampling.ipynb
-[36mjupyter_1  |[0m [W 21:08:02.515 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Population&Sampling.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:10:01.325 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb
-[36mjupyter_1  |[0m [W 21:10:01.326 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Frequency&Distribution .ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:10:03.125 NotebookApp] Starting buffering for 73d8ad2b-8b38-4f09-a1a5-2fdf70072045:d0d9759dd4954d5c97a0e7720d3952e1
-[36mjupyter_1  |[0m [I 21:10:05.050 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.Population&Sampling.ipynb
-[36mjupyter_1  |[0m [W 21:10:05.051 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.Population&Sampling.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:10:06.401 NotebookApp] Starting buffering for 88fe5c1e-e284-4b28-ad63-e3dcc5ae1cbe:144b13cbe9b84d5ca5e36e3e68fc3f84
-[36mjupyter_1  |[0m [I 21:10:18.893 NotebookApp] Kernel shutdown: 73d8ad2b-8b38-4f09-a1a5-2fdf70072045
-[36mjupyter_1  |[0m [I 21:10:37.823 NotebookApp] Kernel shutdown: 88fe5c1e-e284-4b28-ad63-e3dcc5ae1cbe
-[36mjupyter_1  |[0m [W 21:11:17.210 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:11:17.393 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/z&t_distribution.png (172.19.0.1) 1.43ms
-[36mjupyter_1  |[0m [I 21:11:17.426 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/2-tail.png (172.19.0.1) 0.95ms
-[36mjupyter_1  |[0m [I 21:11:17.483 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/1-tail.png (172.19.0.1) 0.74ms
-[36mjupyter_1  |[0m [I 21:11:17.545 NotebookApp] Kernel started: f68f57d4-a8cb-4814-8ad8-9f93e3244e02
-[36mjupyter_1  |[0m [I 21:15:17.568 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb
-[36mjupyter_1  |[0m [W 21:15:17.568 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:17:17.573 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb
-[36mjupyter_1  |[0m [W 21:17:17.574 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:19:17.558 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb
-[36mjupyter_1  |[0m [W 21:19:17.559 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:21:17.566 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb
-[36mjupyter_1  |[0m [W 21:21:17.567 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:22:31.523 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb
-[36mjupyter_1  |[0m [W 21:22:31.523 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:23:17.572 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb
-[36mjupyter_1  |[0m [W 21:23:17.573 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:23:25.886 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb
-[36mjupyter_1  |[0m [W 21:23:25.887 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:31:50.940 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb
-[36mjupyter_1  |[0m [W 21:31:50.941 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:33:17.573 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb
-[36mjupyter_1  |[0m [W 21:33:17.574 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
-[36mjupyter_1  |[0m [W 21:35:32.963 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.3Confidence_Interval.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:35:33.154 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/Zquant.png (172.19.0.1) 1.17ms
-[36mjupyter_1  |[0m [I 21:35:33.306 NotebookApp] Kernel started: 9fa4c970-e0f2-45f3-a092-8259f3adf330
-[36mjupyter_1  |[0m [I 22:00:17.604 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.3Confidence_Interval.ipynb
-[36mjupyter_1  |[0m [W 22:00:17.605 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.3Confidence_Interval.ipynb is not trusted
-[36mjupyter_1  |[0m [I 22:00:19.192 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb
-[36mjupyter_1  |[0m [W 22:00:19.192 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
-[36mjupyter_1  |[0m [I 22:00:20.529 NotebookApp] Starting buffering for f68f57d4-a8cb-4814-8ad8-9f93e3244e02:b9080581097d42a38de98945436ab34c
-[36mjupyter_1  |[0m [I 22:00:21.584 NotebookApp] Starting buffering for 9fa4c970-e0f2-45f3-a092-8259f3adf330:2343e2364fa64777858df695b9babbdf
-[36mjupyter_1  |[0m [I 22:00:36.647 NotebookApp] Creating new notebook in /work/Coursea:FinancialAnalysis
-[36mjupyter_1  |[0m [I 22:00:37.354 NotebookApp] Kernel started: 09550964-1618-48e0-b66f-f6f988f16571
-[36mjupyter_1  |[0m [I 22:02:37.358 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 22:04:37.371 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 22:06:37.368 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 22:08:37.373 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 22:10:37.370 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 23:35:44.018 NotebookApp] Starting buffering for 09550964-1618-48e0-b66f-f6f988f16571:3f0c08abc9474e5aa3f0e9466d38e79d
+[36mjupyter_1  |[0m         http://190405775ef7:8888/?token=9ef7b93e20fec8c6dcbf42acdd43123268225ab601013534
+[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=9ef7b93e20fec8c6dcbf42acdd43123268225ab601013534
+[36mjupyter_1  |[0m [I 15:29:10.998 NotebookApp] 302 GET /?token=9ef7b93e20fec8c6dcbf42acdd43123268225ab601013534 (172.18.0.1) 0.72ms
+[36mjupyter_1  |[0m [I 15:32:21.533 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[36mjupyter_1  |[0m [W 15:32:21.534 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb is not trusted
+[36mjupyter_1  |[0m [I 15:32:21.701 NotebookApp] Kernel started: ec7e47fd-67bf-4869-998a-e8811293e09f
+[36mjupyter_1  |[0m [I 15:34:21.694 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
+[36mjupyter_1  |[0m [I 15:36:21.709 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
+[36mjupyter_1  |[0m [I 15:38:21.709 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
+[36mjupyter_1  |[0m [I 15:48:36.095 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
+[36mjupyter_1  |[0m [I 15:48:37.692 NotebookApp] Starting buffering for ec7e47fd-67bf-4869-998a-e8811293e09f:58d085577a3f4bc38980fe37b390c23b
+[36mjupyter_1  |[0m [I 15:49:00.895 NotebookApp] Uploading file to /work/Coursea:FinancialAnalysis/data/housing.csv
+[36mjupyter_1  |[0m [W 15:49:53.207 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
+[36mjupyter_1  |[0m [I 15:49:53.382 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/z&t_distribution.png (172.18.0.1) 1.12ms
+[36mjupyter_1  |[0m [I 15:49:53.414 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/2-tail.png (172.18.0.1) 0.90ms
+[36mjupyter_1  |[0m [I 15:49:53.472 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/1-tail.png (172.18.0.1) 0.75ms
+[36mjupyter_1  |[0m [I 15:49:53.539 NotebookApp] Kernel started: 0100aa5f-fc48-4a79-9bd1-e2fc073b96c0
+[36mjupyter_1  |[0m [I 15:50:35.183 NotebookApp] Starting buffering for 0100aa5f-fc48-4a79-9bd1-e2fc073b96c0:3929e7770f904fad8db0436745cb1545
+[36mjupyter_1  |[0m [I 15:51:06.454 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
+[36mjupyter_1  |[0m [I 15:53:06.439 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
+[36mjupyter_1  |[0m [I 15:55:06.440 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
+[36mjupyter_1  |[0m [I 15:57:06.803 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
+[36mjupyter_1  |[0m [I 15:58:08.835 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
+[36mjupyter_1  |[0m [I 15:58:18.588 NotebookApp] Starting buffering for ec7e47fd-67bf-4869-998a-e8811293e09f:928a0082f4d445498b3a2f291278e27d
+[36mjupyter_1  |[0m [I 15:58:27.382 NotebookApp] Creating new notebook in /work/Coursea:FinancialAnalysis
+[36mjupyter_1  |[0m [I 15:58:28.099 NotebookApp] Kernel started: d10c0cf5-d2d9-43ae-8d2e-c4f6bf75f49c
+[36mjupyter_1  |[0m [I 16:00:28.119 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Untitled.ipynb
+[36mjupyter_1  |[0m [I 18:21:48.391 NotebookApp] Starting buffering for ec7e47fd-67bf-4869-998a-e8811293e09f:045517b1041e4e6c8f606b23adf05377
+[36mjupyter_1  |[0m [I 18:29:55.875 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 18:31:55.886 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 18:33:55.884 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 18:35:55.885 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 18:37:55.886 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 18:39:55.884 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 18:41:55.876 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 18:43:55.888 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 18:45:55.886 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 18:57:55.896 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 18:59:55.889 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 19:01:55.875 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 19:03:55.887 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 19:05:55.880 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 19:07:55.889 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 19:09:55.880 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 19:11:55.880 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 19:13:55.887 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 19:15:55.873 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 19:17:55.888 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:29:55.926 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:33:55.903 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:35:55.908 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:37:55.920 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:39:55.909 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:41:55.913 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:39:55.941 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:41:55.917 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:43:55.919 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:45:55.931 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:47:55.925 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:49:55.933 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [W 21:50:32.314 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
+[36mjupyter_1  |[0m [I 21:50:32.591 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/z&t_distribution.png (172.18.0.1) 1.09ms
+[36mjupyter_1  |[0m [I 21:50:32.642 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/2-tail.png (172.18.0.1) 1.14ms
+[36mjupyter_1  |[0m [I 21:50:32.728 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/1-tail.png (172.18.0.1) 1.55ms
+[36mjupyter_1  |[0m [I 21:53:55.933 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:55:55.922 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:57:55.920 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:59:55.928 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 22:01:55.935 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 22:03:55.935 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 22:05:55.920 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 22:07:55.935 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 22:09:55.938 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 23:41:20.204 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 23:41:21.147 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 23:41:22.469 NotebookApp] Starting buffering for d10c0cf5-d2d9-43ae-8d2e-c4f6bf75f49c:325bf75d14c1463a9acaa276e3fe2183
+[36mjupyter_1  |[0m [I 23:41:26.310 NotebookApp] Starting buffering for 0100aa5f-fc48-4a79-9bd1-e2fc073b96c0:8ac2250a5e9d4aaa8595bd9d8202f2b7
