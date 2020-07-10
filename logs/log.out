@@ -1,92 +1,143 @@
 Attaching to jupyternotes_jupyter_1
 [36mjupyter_1  |[0m Executing the command: jupyter notebook
-[36mjupyter_1  |[0m [I 15:29:08.359 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
-[36mjupyter_1  |[0m [I 15:29:09.039 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
-[36mjupyter_1  |[0m [I 15:29:09.039 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
-[36mjupyter_1  |[0m [I 15:29:09.041 NotebookApp] Serving notebooks from local directory: /home/jovyan
-[36mjupyter_1  |[0m [I 15:29:09.041 NotebookApp] The Jupyter Notebook is running at:
-[36mjupyter_1  |[0m [I 15:29:09.042 NotebookApp] http://190405775ef7:8888/?token=9ef7b93e20fec8c6dcbf42acdd43123268225ab601013534
-[36mjupyter_1  |[0m [I 15:29:09.042 NotebookApp]  or http://127.0.0.1:8888/?token=9ef7b93e20fec8c6dcbf42acdd43123268225ab601013534
-[36mjupyter_1  |[0m [I 15:29:09.042 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[36mjupyter_1  |[0m [C 15:29:09.045 NotebookApp] 
+[36mjupyter_1  |[0m [I 15:13:24.670 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[36mjupyter_1  |[0m [I 15:13:25.682 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[36mjupyter_1  |[0m [I 15:13:25.683 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[36mjupyter_1  |[0m [I 15:13:25.686 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[36mjupyter_1  |[0m [I 15:13:25.687 NotebookApp] The Jupyter Notebook is running at:
+[36mjupyter_1  |[0m [I 15:13:25.687 NotebookApp] http://d53435bd18fc:8888/?token=bbaf8050154af5a7814a44b35b0d43c67d846a476a5b4539
+[36mjupyter_1  |[0m [I 15:13:25.687 NotebookApp]  or http://127.0.0.1:8888/?token=bbaf8050154af5a7814a44b35b0d43c67d846a476a5b4539
+[36mjupyter_1  |[0m [I 15:13:25.687 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[36mjupyter_1  |[0m [C 15:13:25.692 NotebookApp] 
 [36mjupyter_1  |[0m     
 [36mjupyter_1  |[0m     To access the notebook, open this file in a browser:
 [36mjupyter_1  |[0m         file:///home/jovyan/.local/share/jupyter/runtime/nbserver-6-open.html
 [36mjupyter_1  |[0m     Or copy and paste one of these URLs:
-[36mjupyter_1  |[0m         http://190405775ef7:8888/?token=9ef7b93e20fec8c6dcbf42acdd43123268225ab601013534
-[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=9ef7b93e20fec8c6dcbf42acdd43123268225ab601013534
-[36mjupyter_1  |[0m [I 15:29:10.998 NotebookApp] 302 GET /?token=9ef7b93e20fec8c6dcbf42acdd43123268225ab601013534 (172.18.0.1) 0.72ms
-[36mjupyter_1  |[0m [I 15:32:21.533 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
-[36mjupyter_1  |[0m [W 15:32:21.534 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb is not trusted
-[36mjupyter_1  |[0m [I 15:32:21.701 NotebookApp] Kernel started: ec7e47fd-67bf-4869-998a-e8811293e09f
-[36mjupyter_1  |[0m [I 15:34:21.694 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 15:36:21.709 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 15:38:21.709 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 15:48:36.095 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 15:48:37.692 NotebookApp] Starting buffering for ec7e47fd-67bf-4869-998a-e8811293e09f:58d085577a3f4bc38980fe37b390c23b
-[36mjupyter_1  |[0m [I 15:49:00.895 NotebookApp] Uploading file to /work/Coursea:FinancialAnalysis/data/housing.csv
-[36mjupyter_1  |[0m [W 15:49:53.207 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
-[36mjupyter_1  |[0m [I 15:49:53.382 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/z&t_distribution.png (172.18.0.1) 1.12ms
-[36mjupyter_1  |[0m [I 15:49:53.414 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/2-tail.png (172.18.0.1) 0.90ms
-[36mjupyter_1  |[0m [I 15:49:53.472 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/1-tail.png (172.18.0.1) 0.75ms
-[36mjupyter_1  |[0m [I 15:49:53.539 NotebookApp] Kernel started: 0100aa5f-fc48-4a79-9bd1-e2fc073b96c0
-[36mjupyter_1  |[0m [I 15:50:35.183 NotebookApp] Starting buffering for 0100aa5f-fc48-4a79-9bd1-e2fc073b96c0:3929e7770f904fad8db0436745cb1545
-[36mjupyter_1  |[0m [I 15:51:06.454 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 15:53:06.439 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 15:55:06.440 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 15:57:06.803 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 15:58:08.835 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
-[36mjupyter_1  |[0m [I 15:58:18.588 NotebookApp] Starting buffering for ec7e47fd-67bf-4869-998a-e8811293e09f:928a0082f4d445498b3a2f291278e27d
-[36mjupyter_1  |[0m [I 15:58:27.382 NotebookApp] Creating new notebook in /work/Coursea:FinancialAnalysis
-[36mjupyter_1  |[0m [I 15:58:28.099 NotebookApp] Kernel started: d10c0cf5-d2d9-43ae-8d2e-c4f6bf75f49c
-[36mjupyter_1  |[0m [I 16:00:28.119 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Untitled.ipynb
-[36mjupyter_1  |[0m [I 18:21:48.391 NotebookApp] Starting buffering for ec7e47fd-67bf-4869-998a-e8811293e09f:045517b1041e4e6c8f606b23adf05377
-[36mjupyter_1  |[0m [I 18:29:55.875 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 18:31:55.886 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 18:33:55.884 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 18:35:55.885 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 18:37:55.886 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 18:39:55.884 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 18:41:55.876 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 18:43:55.888 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 18:45:55.886 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 18:57:55.896 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 18:59:55.889 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 19:01:55.875 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 19:03:55.887 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 19:05:55.880 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 19:07:55.889 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 19:09:55.880 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 19:11:55.880 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 19:13:55.887 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 19:15:55.873 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 19:17:55.888 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 20:29:55.926 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 20:33:55.903 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 20:35:55.908 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 20:37:55.920 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 20:39:55.909 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 20:41:55.913 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 21:39:55.941 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 21:41:55.917 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 21:43:55.919 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 21:45:55.931 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 21:47:55.925 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 21:49:55.933 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [W 21:50:32.314 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.4Hypothesis Testing.ipynb is not trusted
-[36mjupyter_1  |[0m [I 21:50:32.591 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/z&t_distribution.png (172.18.0.1) 1.09ms
-[36mjupyter_1  |[0m [I 21:50:32.642 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/2-tail.png (172.18.0.1) 1.14ms
-[36mjupyter_1  |[0m [I 21:50:32.728 NotebookApp] 302 GET /notebooks/work/Coursea%3AFinancialAnalysis/img/1-tail.png (172.18.0.1) 1.55ms
-[36mjupyter_1  |[0m [I 21:53:55.933 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 21:55:55.922 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 21:57:55.920 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 21:59:55.928 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 22:01:55.935 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 22:03:55.935 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 22:05:55.920 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 22:07:55.935 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 22:09:55.938 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 23:41:20.204 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 23:41:21.147 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
-[36mjupyter_1  |[0m [I 23:41:22.469 NotebookApp] Starting buffering for d10c0cf5-d2d9-43ae-8d2e-c4f6bf75f49c:325bf75d14c1463a9acaa276e3fe2183
-[36mjupyter_1  |[0m [I 23:41:26.310 NotebookApp] Starting buffering for 0100aa5f-fc48-4a79-9bd1-e2fc073b96c0:8ac2250a5e9d4aaa8595bd9d8202f2b7
+[36mjupyter_1  |[0m         http://d53435bd18fc:8888/?token=bbaf8050154af5a7814a44b35b0d43c67d846a476a5b4539
+[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=bbaf8050154af5a7814a44b35b0d43c67d846a476a5b4539
+[36mjupyter_1  |[0m [I 15:13:27.485 NotebookApp] 302 GET /?token=bbaf8050154af5a7814a44b35b0d43c67d846a476a5b4539 (172.18.0.1) 0.87ms
+[36mjupyter_1  |[0m [I 15:17:02.213 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[36mjupyter_1  |[0m [W 15:17:02.214 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb is not trusted
+[36mjupyter_1  |[0m [I 15:17:02.517 NotebookApp] Kernel started: 2f59ca70-897d-47f9-b40f-75a5674a060b
+[36mjupyter_1  |[0m [W 15:17:37.997 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb is not trusted
+[36mjupyter_1  |[0m [I 15:17:38.334 NotebookApp] Kernel started: 86c5e1f0-7b4b-4e79-a0a0-084648022bd0
+[36mjupyter_1  |[0m [I 15:19:02.517 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 15:19:10.856 NotebookApp] Starting buffering for 86c5e1f0-7b4b-4e79-a0a0-084648022bd0:81330681f84d47988eafde30af68450a
+[36mjupyter_1  |[0m [I 15:21:02.506 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 15:27:02.506 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 15:29:02.517 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 15:31:02.510 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 15:33:02.511 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 15:35:02.509 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 15:37:02.516 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 15:39:02.512 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 15:49:02.508 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:11:02.519 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:13:02.526 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:15:02.520 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:17:02.531 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:19:02.519 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:20:04.059 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:21:02.538 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:23:02.522 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:35:02.544 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:37:02.527 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:39:02.544 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:41:02.541 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:43:02.531 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:45:03.043 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:47:03.042 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:49:03.042 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:51:03.035 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:52:06.717 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:52:13.407 NotebookApp] Creating new notebook in /work/Coursea:FinancialAnalysis
+[36mjupyter_1  |[0m [I 16:52:14.090 NotebookApp] Kernel started: 723fc40b-3e9a-44f2-b7e8-13b44fad87c7
+[36mjupyter_1  |[0m [I 16:53:03.050 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:54:14.107 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 16:54:59.688 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:55:04.319 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.2LinearRegression.ipynb
+[36mjupyter_1  |[0m [I 16:55:05.422 NotebookApp] Starting buffering for 2f59ca70-897d-47f9-b40f-75a5674a060b:bed44f5aabf94443817cd53dd5ca1bce
+[36mjupyter_1  |[0m [I 16:56:14.107 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 16:58:14.092 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 17:00:14.111 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 17:02:14.088 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 17:04:14.108 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 17:06:14.126 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 17:46:14.130 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 17:48:14.110 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 17:49:00.900 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 17:50:14.122 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 18:28:14.142 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 18:30:14.113 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 18:32:14.135 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 18:34:14.140 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 18:36:14.133 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 18:38:14.137 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 18:54:14.148 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 18:55:19.304 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.3ValidatingLinearRegressionModel.ipynb
+[36mjupyter_1  |[0m [I 18:55:22.346 NotebookApp] Starting buffering for 723fc40b-3e9a-44f2-b7e8-13b44fad87c7:df5f144ad36949d687c1cf52c491a39f
+[36mjupyter_1  |[0m [I 19:53:36.424 NotebookApp] Uploading file to /work/Coursea:FinancialAnalysis/data/spy_index.csv
+[36mjupyter_1  |[0m [W 20:04:46.318 NotebookApp] delete /work/Coursea:FinancialAnalysis/data/spy_index.csv
+[36mjupyter_1  |[0m [I 20:05:38.157 NotebookApp] Uploading file to /work/Coursea:FinancialAnalysis/data/SPY.csv
+[36mjupyter_1  |[0m [I 20:05:39.452 NotebookApp] Uploading file to /work/Coursea:FinancialAnalysis/data/^N225.csv
+[36mjupyter_1  |[0m [I 20:05:40.574 NotebookApp] Uploading file to /work/Coursea:FinancialAnalysis/data/^HSI.csv
+[36mjupyter_1  |[0m [I 20:05:41.774 NotebookApp] Uploading file to /work/Coursea:FinancialAnalysis/data/^DJI.csv
+[36mjupyter_1  |[0m [I 20:05:42.457 NotebookApp] Uploading file to /work/Coursea:FinancialAnalysis/data/DAX.csv
+[36mjupyter_1  |[0m [I 20:05:43.365 NotebookApp] Uploading file to /work/Coursea:FinancialAnalysis/data/CAC.csv
+[36mjupyter_1  |[0m [I 20:06:18.586 NotebookApp] Creating new notebook in /work/Coursea:FinancialAnalysis
+[36mjupyter_1  |[0m [I 20:06:19.052 NotebookApp] Kernel started: 8785b8f5-b868-4a55-a3f8-4f2f76c0185a
+[36mjupyter_1  |[0m [I 20:08:19.058 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:10:19.591 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:12:19.590 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:12:30.430 NotebookApp] Starting buffering for 723fc40b-3e9a-44f2-b7e8-13b44fad87c7:dcf8f0f1f0a3400d8251e7cc31f0b2ce
+[36mjupyter_1  |[0m [I 20:14:19.591 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:16:19.848 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:18:19.850 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:20:19.834 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:22:19.849 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:24:19.850 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:26:19.849 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:28:19.839 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:30:19.835 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:32:19.851 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:34:19.844 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:36:19.852 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:38:19.845 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:40:20.474 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:46:20.476 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:52:20.472 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:55:08.899 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:57:08.899 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 20:59:08.897 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:01:08.902 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:02:44.264 NotebookApp] Starting buffering for 2f59ca70-897d-47f9-b40f-75a5674a060b:545bf652203a4faf8bf87cb8924c68f3
+[36mjupyter_1  |[0m [W 21:02:50.083 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb is not trusted
+[36mjupyter_1  |[0m [I 21:03:08.899 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:03:22.133 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:03:22.230 NotebookApp] Starting buffering for 8785b8f5-b868-4a55-a3f8-4f2f76c0185a:1c1100b39c944cb389c7c33b35a83024
+[36mjupyter_1  |[0m [I 21:05:00.561 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb
+[36mjupyter_1  |[0m [W 21:05:00.562 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_4.1RandomVariables.ipynb is not trusted
+[36mjupyter_1  |[0m [I 21:05:04.232 NotebookApp] Starting buffering for 86c5e1f0-7b4b-4e79-a0a0-084648022bd0:55f3a86f7e644c608a11a9c2237ea1d9
+[36mjupyter_1  |[0m [I 21:05:22.380 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:07:17.390 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:09:17.397 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:13:17.389 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:15:17.406 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:17:17.404 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:19:17.397 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:21:17.405 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:23:17.404 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:25:17.844 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:27:17.839 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:29:17.844 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:31:17.932 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:33:17.939 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:35:17.932 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:37:17.941 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:39:17.935 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:39:46.939 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:39:48.218 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 21:39:52.752 NotebookApp] Starting buffering for 8785b8f5-b868-4a55-a3f8-4f2f76c0185a:520a49ddb2c94ccfa81124456b54d00c
+[36mjupyter_1  |[0m [I 22:01:58.610 NotebookApp] Starting buffering for 723fc40b-3e9a-44f2-b7e8-13b44fad87c7:98270714bddb4a8e8da89564645b019f
+[36mjupyter_1  |[0m [I 22:02:05.870 NotebookApp] Saving file at /work/Coursea:FinancialAnalysis/Lesson_4.4MultipleLinearRegression.ipynb
+[36mjupyter_1  |[0m [I 22:02:06.972 NotebookApp] Starting buffering for 8785b8f5-b868-4a55-a3f8-4f2f76c0185a:9b65edcaed554c82b22b426048de34e2
