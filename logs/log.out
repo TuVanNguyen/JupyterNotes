@@ -1,82 +1,93 @@
 Attaching to jupyternotes_jupyter_1
 [36mjupyter_1  |[0m Executing the command: jupyter notebook
-[36mjupyter_1  |[0m [I 16:32:06.096 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
-[36mjupyter_1  |[0m [I 16:32:07.225 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
-[36mjupyter_1  |[0m [I 16:32:07.225 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
-[36mjupyter_1  |[0m [I 16:32:07.228 NotebookApp] Serving notebooks from local directory: /home/jovyan
-[36mjupyter_1  |[0m [I 16:32:07.228 NotebookApp] The Jupyter Notebook is running at:
-[36mjupyter_1  |[0m [I 16:32:07.228 NotebookApp] http://8a72128dd9b4:8888/?token=a5f3dd9cc96eaa3a30519e13c9b9dd82da9dd9032ecdf665
-[36mjupyter_1  |[0m [I 16:32:07.229 NotebookApp]  or http://127.0.0.1:8888/?token=a5f3dd9cc96eaa3a30519e13c9b9dd82da9dd9032ecdf665
-[36mjupyter_1  |[0m [I 16:32:07.229 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[36mjupyter_1  |[0m [C 16:32:07.235 NotebookApp] 
+[36mjupyter_1  |[0m [I 19:47:52.732 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[36mjupyter_1  |[0m [I 19:47:53.436 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[36mjupyter_1  |[0m [I 19:47:53.437 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[36mjupyter_1  |[0m [I 19:47:53.440 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[36mjupyter_1  |[0m [I 19:47:53.440 NotebookApp] The Jupyter Notebook is running at:
+[36mjupyter_1  |[0m [I 19:47:53.440 NotebookApp] http://ff94b231865f:8888/?token=bfbdf529eed537abf25e22be5f3266ba4859ee547c65a4c4
+[36mjupyter_1  |[0m [I 19:47:53.440 NotebookApp]  or http://127.0.0.1:8888/?token=bfbdf529eed537abf25e22be5f3266ba4859ee547c65a4c4
+[36mjupyter_1  |[0m [I 19:47:53.440 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[36mjupyter_1  |[0m [C 19:47:53.445 NotebookApp] 
 [36mjupyter_1  |[0m     
 [36mjupyter_1  |[0m     To access the notebook, open this file in a browser:
 [36mjupyter_1  |[0m         file:///home/jovyan/.local/share/jupyter/runtime/nbserver-6-open.html
 [36mjupyter_1  |[0m     Or copy and paste one of these URLs:
-[36mjupyter_1  |[0m         http://8a72128dd9b4:8888/?token=a5f3dd9cc96eaa3a30519e13c9b9dd82da9dd9032ecdf665
-[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=a5f3dd9cc96eaa3a30519e13c9b9dd82da9dd9032ecdf665
-[36mjupyter_1  |[0m [I 16:32:08.761 NotebookApp] 302 GET /?token=a5f3dd9cc96eaa3a30519e13c9b9dd82da9dd9032ecdf665 (172.18.0.1) 0.69ms
-[36mjupyter_1  |[0m [I 16:42:56.008 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
-[36mjupyter_1  |[0m [W 16:42:56.009 NotebookApp] Notebook work/ValueInvesting-TaewooKim/Lesson1_UploadingDataFromSimFin.ipynb is not trusted
-[36mjupyter_1  |[0m [I 16:42:56.367 NotebookApp] Kernel started: fedd5f47-07a8-41ee-8e6a-5e7cf9b387b6
-[36mjupyter_1  |[0m [I 16:44:56.349 NotebookApp] Saving file at /work/ValueInvesting-TaewooKim/Lesson1_UploadingDataFromSimFin.ipynb
-[36mjupyter_1  |[0m [I 21:14:26.770 NotebookApp] Starting buffering for fedd5f47-07a8-41ee-8e6a-5e7cf9b387b6:0608a50500f54b869a6ed970220fae49
-[36mjupyter_1  |[0m [I 21:42:03.483 NotebookApp] Creating new directory in /work
-[36mjupyter_1  |[0m [W 21:42:09.795 NotebookApp] delete /work/Untitled.ipynb
-[36mjupyter_1  |[0m [W 21:42:09.811 NotebookApp] delete /work/Untitled1.ipynb
-[36mjupyter_1  |[0m [I 21:42:36.376 NotebookApp] Creating new notebook in /work/InferentialThinking
-[36mjupyter_1  |[0m [I 21:42:36.863 NotebookApp] Kernel started: fa093a19-9d2e-4feb-95c9-729343ad6ae9
-[36mjupyter_1  |[0m [I 21:44:36.874 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 21:46:36.884 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 21:48:36.889 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 21:50:36.871 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 21:52:36.883 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 21:54:36.882 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 21:56:36.881 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 21:58:36.885 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:00:36.880 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:02:36.873 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:04:36.882 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:06:36.865 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:08:36.885 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:10:36.884 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:12:36.881 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:12:58.058 NotebookApp] Starting buffering for fa093a19-9d2e-4feb-95c9-729343ad6ae9:e1874e41e2164fdd9ed2b5b14e5d5c75
-[36mjupyter_1  |[0m [I 22:12:58.263 NotebookApp] Kernel restarted: fa093a19-9d2e-4feb-95c9-729343ad6ae9
-[36mjupyter_1  |[0m [I 22:12:58.664 NotebookApp] Restoring connection for fa093a19-9d2e-4feb-95c9-729343ad6ae9:e1874e41e2164fdd9ed2b5b14e5d5c75
-[36mjupyter_1  |[0m [I 22:12:58.664 NotebookApp] Replaying 6 buffered messages
-[36mjupyter_1  |[0m [I 22:13:17.542 NotebookApp] Starting buffering for fa093a19-9d2e-4feb-95c9-729343ad6ae9:e1874e41e2164fdd9ed2b5b14e5d5c75
-[36mjupyter_1  |[0m [I 22:13:17.748 NotebookApp] Kernel restarted: fa093a19-9d2e-4feb-95c9-729343ad6ae9
-[36mjupyter_1  |[0m [I 22:13:18.100 NotebookApp] Restoring connection for fa093a19-9d2e-4feb-95c9-729343ad6ae9:e1874e41e2164fdd9ed2b5b14e5d5c75
-[36mjupyter_1  |[0m [I 22:13:18.100 NotebookApp] Replaying 3 buffered messages
-[36mjupyter_1  |[0m [I 22:14:36.886 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:16:36.866 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:18:36.867 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:20:36.876 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:22:36.886 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:24:36.885 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:26:36.880 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:28:36.887 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:30:36.872 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:32:37.873 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:34:37.876 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:36:37.876 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:38:37.874 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:40:37.876 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:42:37.875 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:44:37.874 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:46:37.873 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:48:37.875 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:50:37.858 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:52:38.403 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:54:38.418 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:56:38.419 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 22:58:38.418 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 23:02:38.420 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 23:04:38.411 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 23:06:38.408 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 23:08:05.023 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 23:11:40.510 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 23:11:41.615 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 00:49:44.257 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
-[36mjupyter_1  |[0m [I 00:49:46.149 NotebookApp] Starting buffering for fa093a19-9d2e-4feb-95c9-729343ad6ae9:e1874e41e2164fdd9ed2b5b14e5d5c75
+[36mjupyter_1  |[0m         http://ff94b231865f:8888/?token=bfbdf529eed537abf25e22be5f3266ba4859ee547c65a4c4
+[36mjupyter_1  |[0m      or http://127.0.0.1:8888/?token=bfbdf529eed537abf25e22be5f3266ba4859ee547c65a4c4
+[36mjupyter_1  |[0m [I 19:47:55.314 NotebookApp] 302 GET /?token=bfbdf529eed537abf25e22be5f3266ba4859ee547c65a4c4 (172.19.0.1) 0.81ms
+[36mjupyter_1  |[0m [I 19:48:06.451 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[36mjupyter_1  |[0m [W 19:48:06.451 NotebookApp] Notebook work/InferentialThinking/1.LiteratureAnalysis.ipynb is not trusted
+[36mjupyter_1  |[0m [I 19:48:06.653 NotebookApp] Kernel started: 52e263ff-8375-4be6-af16-29d4e761b780
+[36mjupyter_1  |[0m [W 19:48:51.502 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson_3.2Population&Sampling.ipynb is not trusted
+[36mjupyter_1  |[0m [I 19:48:51.729 NotebookApp] Kernel started: 0285fc78-0e6a-4aa7-841d-960f7cad77d7
+[36mjupyter_1  |[0m [I 19:50:06.654 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [W 19:50:06.655 NotebookApp] Notebook work/InferentialThinking/1.LiteratureAnalysis.ipynb is not trusted
+[36mjupyter_1  |[0m [I 19:52:06.645 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 19:54:06.657 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 19:56:06.955 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 19:58:06.949 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:00:06.958 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:02:06.971 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:06:06.967 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:08:06.955 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:10:06.963 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:12:06.958 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:14:06.963 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:16:06.967 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:18:06.960 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:20:06.975 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:22:06.968 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:24:06.967 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:26:06.982 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:28:06.980 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:29:05.466 NotebookApp] Starting buffering for 0285fc78-0e6a-4aa7-841d-960f7cad77d7:8d309b8e707b416a907359798b7b69dd
+[36mjupyter_1  |[0m [W 20:29:16.076 NotebookApp] Notebook work/Coursea:FinancialAnalysis/Lesson1_Moving_Averages.ipynb is not trusted
+[36mjupyter_1  |[0m [I 20:29:16.592 NotebookApp] Kernel started: 1093954d-d6e0-4c23-8aec-72b1628ebe9a
+[36mjupyter_1  |[0m [I 20:30:06.968 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:32:06.968 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:34:07.668 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:36:07.657 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:38:07.661 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:46:07.675 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:48:07.670 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:49:50.228 NotebookApp] Starting buffering for 1093954d-d6e0-4c23-8aec-72b1628ebe9a:58b2338f01914c588ab18616ba8176b5
+[36mjupyter_1  |[0m [I 20:50:07.657 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:52:07.657 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:54:07.656 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:56:07.670 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 20:58:07.657 NotebookApp] Saving file at /work/InferentialThinking/1.LiteratureAnalysis.ipynb
+[36mjupyter_1  |[0m [I 21:03:23.636 NotebookApp] Starting buffering for 52e263ff-8375-4be6-af16-29d4e761b780:95446e80a66d487e991c748c095ea7ea
+[36mjupyter_1  |[0m [I 21:03:32.436 NotebookApp] Creating new notebook in /work/InferentialThinking
+[36mjupyter_1  |[0m [I 21:03:33.153 NotebookApp] Kernel started: db951d1b-9a62-4bc5-a818-d11086e8d30f
+[36mjupyter_1  |[0m [I 21:05:33.176 NotebookApp] Saving file at /work/InferentialThinking/2.Causality.ipynb
+[36mjupyter_1  |[0m [I 21:07:33.172 NotebookApp] Saving file at /work/InferentialThinking/2.Causality.ipynb
+[36mjupyter_1  |[0m [I 21:23:33.181 NotebookApp] Saving file at /work/InferentialThinking/2.Causality.ipynb
+[36mjupyter_1  |[0m [I 21:25:33.171 NotebookApp] Saving file at /work/InferentialThinking/2.Causality.ipynb
+[36mjupyter_1  |[0m [I 21:37:33.177 NotebookApp] Saving file at /work/InferentialThinking/2.Causality.ipynb
+[36mjupyter_1  |[0m [I 21:41:33.175 NotebookApp] Saving file at /work/InferentialThinking/2.Causality.ipynb
+[36mjupyter_1  |[0m [I 21:43:33.177 NotebookApp] Saving file at /work/InferentialThinking/2.Causality.ipynb
+[36mjupyter_1  |[0m [I 21:45:33.176 NotebookApp] Saving file at /work/InferentialThinking/2.Causality.ipynb
+[36mjupyter_1  |[0m [I 21:47:33.174 NotebookApp] Saving file at /work/InferentialThinking/2.Causality.ipynb
+[36mjupyter_1  |[0m [I 21:49:14.050 NotebookApp] Saving file at /work/InferentialThinking/2.Causality.ipynb
+[36mjupyter_1  |[0m [I 21:49:20.524 NotebookApp] Saving file at /work/InferentialThinking/2.Causality.ipynb
+[36mjupyter_1  |[0m [I 21:49:21.745 NotebookApp] Saving file at /work/InferentialThinking/2.Causality.ipynb
+[36mjupyter_1  |[0m [I 21:49:22.524 NotebookApp] Saving file at /work/InferentialThinking/2.Causality.ipynb
+[36mjupyter_1  |[0m [I 21:49:23.617 NotebookApp] Starting buffering for db951d1b-9a62-4bc5-a818-d11086e8d30f:2e3ec6926b70466280160812382fe6ea
+[36mjupyter_1  |[0m [I 21:50:55.613 NotebookApp] Creating new notebook in /work/InferentialThinking
+[36mjupyter_1  |[0m [I 21:50:56.107 NotebookApp] Kernel started: cf5a4b02-a929-4cbf-875a-cab4c37a439e
+[36mjupyter_1  |[0m [I 21:52:56.129 NotebookApp] Saving file at /work/InferentialThinking/7.Visualization.ipynb
+[36mjupyter_1  |[0m [I 22:00:40.957 NotebookApp] Creating new directory in /work/InferentialThinking
+[36mjupyter_1  |[0m [I 22:00:56.111 NotebookApp] Saving file at /work/InferentialThinking/7.Visualization.ipynb
+[36mjupyter_1  |[0m [I 22:01:15.968 NotebookApp] Uploading file to /work/InferentialThinking/data/book1-100k.csv
+[36mjupyter_1  |[0m [I 22:02:56.128 NotebookApp] Saving file at /work/InferentialThinking/7.Visualization.ipynb
+[36mjupyter_1  |[0m [I 22:04:56.132 NotebookApp] Saving file at /work/InferentialThinking/7.Visualization.ipynb
+[36mjupyter_1  |[0m [I 22:06:56.115 NotebookApp] Saving file at /work/InferentialThinking/7.Visualization.ipynb
+[36mjupyter_1  |[0m [I 22:12:56.147 NotebookApp] Saving file at /work/InferentialThinking/7.Visualization.ipynb
+[36mjupyter_1  |[0m [I 22:14:56.110 NotebookApp] Saving file at /work/InferentialThinking/7.Visualization.ipynb
+[36mjupyter_1  |[0m [I 22:16:56.130 NotebookApp] Saving file at /work/InferentialThinking/7.Visualization.ipynb
+[36mjupyter_1  |[0m [I 22:18:56.132 NotebookApp] Saving file at /work/InferentialThinking/7.Visualization.ipynb
+[36mjupyter_1  |[0m [I 22:20:56.129 NotebookApp] Saving file at /work/InferentialThinking/7.Visualization.ipynb
+[36mjupyter_1  |[0m [I 22:22:23.543 NotebookApp] Saving file at /work/InferentialThinking/7.Visualization.ipynb
+[36mjupyter_1  |[0m [I 01:01:09.142 NotebookApp] Saving file at /work/InferentialThinking/7.Visualization.ipynb
+[36mjupyter_1  |[0m [I 01:01:10.706 NotebookApp] Starting buffering for cf5a4b02-a929-4cbf-875a-cab4c37a439e:6bc78ec94b854ab988c220679d8ab349
